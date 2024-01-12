@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai and Fin
 - 🌱 I’m currently learning coding, like C++, python, etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? Not possible.
 
 <!---
 Adddt2RogerZ/Adddt2RogerZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
