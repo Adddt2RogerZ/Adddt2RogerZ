@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adddt2RogerZ
 - 👀 I’m interested in Ai and Fin
 - 🌱 I’m currently learning coding, like C++, python, etc
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing currently. 
 - 📫 How to reach me? Not possible.
 
 <!---
