@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing currently. 
 - 📫 How to reach me? Not possible.
 - ✨ I want to be a millionaire.
+- A bad day today.
 
 <!---
 Adddt2RogerZ/Adddt2RogerZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
