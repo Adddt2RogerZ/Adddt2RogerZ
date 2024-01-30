@@ -8,6 +8,7 @@
 - Bad score, bad mood.
 - only 600alt, no good
 - Crazy Sunday. Go sleep.
+- wine 197
 
 <!---
 Adddt2RogerZ/Adddt2RogerZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
